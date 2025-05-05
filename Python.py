@@ -1,5 +1,5 @@
 print('Hello world')
 
-num = int(input('Insira um numero'))
+num = int(input('Insira um numero: '))
 
-print(f'O número foi {num}')
+print(f'O número foi: {num}')
