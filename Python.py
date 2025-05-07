@@ -1,5 +1,8 @@
-print('Hello world')
+print('Vamos para POO.')
 
-num = int(input('Insira um numero: '))
+class Carro:
+    def __init__(self, modelo):
+        self.modelo = modelo,
+        self.velocidade = 0
 
-print(f'O número foi: {num}')
+print(Carro)
